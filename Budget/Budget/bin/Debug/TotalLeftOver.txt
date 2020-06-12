@@ -1,0 +1,8 @@
+Mortgage/Rent: $850
+Electricity: $50
+Phone: $120
+Groceries: $400
+Loans: $240
+
+There is a total of $2,140.00 left over for this month.
+
